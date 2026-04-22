@@ -82,6 +82,9 @@ Also ensure SDA and SCL lines have pull-up resistors (4.7kΩ recommended).
 - HD44780 LCD datasheet and timing reference
 - NXP LPC2129 user manual
 
+##Schematic capture
+<img width="1180" height="867" alt="Capture" src="https://github.com/user-attachments/assets/4da2c1fb-be56-47d1-9f57-03da931125e3" />
+
 ## Author
 
 Chimataakhilesh
